@@ -1,12 +1,10 @@
 # The 90-Day AI Evaluation System
 
 1. Pilot your use of AI tools over a 90-day period
+   Find a 90-day stretch when you can implement this process in a disciplined, consistent way. Do not start it until you are committed to following through.
 
-Find a 90-day stretch when you can implement this process in a disciplined, consistent way. Do not start it until you are committed to following through.
-
-3. Identify 3-5 use cases
-
-The use cases should be tasks or components of projects that recur frequently during your work week. Use cases must be small enough to be defined clearly and evaluated when completed.
+2. Identify 3-5 use cases
+   The use cases should be tasks or components of projects that recur frequently during your work week. Use cases must be small enough to be defined clearly and evaluated when completed.
 
 4. Actually use AI for those use cases _every time you do them_
 
