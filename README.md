@@ -6,4 +6,4 @@
 - The AI Evaluation System as a Self-Paced, DIY AI Internship
 - My Example, an Introduction
 - My Evaluation System
-- Day 1
+- [Day 1](day1.md)
