@@ -14,8 +14,10 @@
 
 4. Keep at least some quantitative record of how well AI is working in those use cases
 
-   This can be a simple 5 point scale for how effective the AI tool is for the given task. It can also be a quantitative evaluation + a simple write-up of your thoughts about that particular task.
+   This can be a simple 5 point scale for how effective the AI tool is for the given task. It can also be a quantitative evaluation + a simple write-up of your thoughts about that particular task. I recommend two simple 5 point grades each time:
+   - How much time did AI save me? (1 - no time savings; 5 - 10x the speed or even better)
+   - How high was the quality of the result? (1 - seriously sub-standard compared to work without AI; 5 - significantly better than work without AI)
 
-5. Be very cautious about changing the use cases part-way through
+6. Be very cautious about changing the use cases part-way through
 
    It may be necessary to swap out one or even two of your use cases for better candidate tasks after 10 or 15 days of the process. If this is obviously necessary, then make the change. The bottom line is to make sure this evaluation process measures the work you actually do most frequently. **But be very cautious about making a change**. Think very hard and honestly about step #2. The better you evaluate the importance and frequency of your use cases, the more likely you will be to stick with those use cases for the full 90 days.
