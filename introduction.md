@@ -19,4 +19,5 @@ It is easier said than done, however. How does one actually "apply power skills 
 If you have about 90 days (45 days if you want to take the speed route) and you have the drive, you can follow a simple but powerful method for identifying your core power skills; aiming these power skills at tangible career use cases; familiarizig yourself with AI tools relevant for your use cases; developing a data-based method for evaluating the value of these tools for each use case; and presenting (to yourself and to a potential employer) the upside you have found at the end of the process.
 
 This is the DIY AI Internship.
-(on to [Power Skills](power-skills.md) first)
+
+(Now on to [Power Skills](power-skills.md)!)
