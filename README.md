@@ -6,5 +6,4 @@
 - [The AI Evaluation System as a Self-Paced, DIY AI Internship](DIY-AI-internship.md)
 - [My Example, an Introduction](my-example.md)
 - [Setting Up My Evaluation System](setting-it-up.md)
-- [Day 1](day1.md)
-- [Day 2](day2.md)
+- [All 90 Days of My DIY AI Internship](days.md)
