@@ -10,6 +10,7 @@ Step #3
 Winnow down the list of use cases in terms of
 - frequency
 - importance to my work
+- plausible effectiveness of AI for the task (this has to be guessed at to some degree; the point of the process is to learn the answer)
 
 Step #4
 Identify relevant AI tools for use cases
