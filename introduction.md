@@ -1,6 +1,6 @@
 # Introduction to Your Career Power Skills and AI
 
-Welcome! This is your guide to building a process that will make the most of the power skills you have developed as a student in a field in the Humanities. This guide will also be relevant to students outside the Humanities (as long as you get creative about identifying some similar power skills you've picked up along the way). It will also be useful to anyone early on in their career who wants a method for testing the tangible usefulness of AI for their career goals. Finally, this guide will be exciting and valuable for anyone well-established in their career who has a spirit of experimentating and innovation and wants to see what is possible.
+Welcome! This is your guide to building a process that will make the most of the power skills you have developed as a student in a field in the Humanities. This guide will also be relevant to students outside the Humanities (as long as you get creative about identifying some similar power skills you've picked up along the way). It will also be useful to anyone early on in their career who wants a method for testing the tangible usefulness of AI for their career goals. Finally, this guide will be exciting and valuable for anyone well-established in their career who has a spirit of experimentation and innovation and wants to see what is possible.
 
 ## Power Skills and Artificial Intelligence
 
