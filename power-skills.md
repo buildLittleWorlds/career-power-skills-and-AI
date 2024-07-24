@@ -24,3 +24,5 @@
 - [A link to a report by the online job training company, Udemy, about power skills](https://business.udemy.com/2024-global-learning-skills-trends-report/?utm_source=organic-search&utm_medium=google)
 - [Job skills in demand](https://insights.hanoverresearch.com/hubfs/Top-Career-Skills-for-New-Grads-2023.pdf)
 - 
+
+[Get started with the 90-Day System](the-90-day-system.md)
