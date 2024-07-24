@@ -19,7 +19,7 @@ Step #5
 Customize your prompting for the use cases and AI tools
 - curate multiple context streams that can be used reliably for use cases
 - build up annotated examples and annotated processes to improve prompting outputs
-- [include anything else from the [from poetry to programming podcast episode](https://www.youtube.com/watch?v=wjaSyLHOUb0)
+- [include anything else from the [from poetry to programming podcast episode](https://www.youtube.com/watch?v=wjaSyLHOUb0)]
 
 Step #6
 Write up evalution forms
