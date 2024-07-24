@@ -25,4 +25,5 @@ Step #6
 Move on to Day #1 - do not stop until Day #90 (or #45 if you're doing the speed route)
 
 [Professor Plate's Video Log of His DIY AI Internship](day-by-day.md)
+
 Note: the videos at this blog will be accessible to students at Lindenwood University upon request (send email to dplate@lindenwood.edu).
