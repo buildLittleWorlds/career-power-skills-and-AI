@@ -25,3 +25,5 @@ Note: this system is shamelessly stolen (and adapted a bit) from my favorite "AI
 6. Be very cautious about changing the use cases part-way through
 
    It may be necessary to swap out one or even two of your use cases for better candidate tasks after 10 or 15 days of the process. If this is obviously necessary, then make the change. The bottom line is to make sure this evaluation process measures the work you actually do most frequently. **But be very cautious about making a change**. Think very hard and honestly about step #2. The better you evaluate the importance and frequency of your use cases, the more likely you will be to stick with those use cases for the full 90 days.
+
+[Move on to the DIY AI Internship](DIY-AI-internship.md)
