@@ -25,3 +25,5 @@ So Moose has a few important traits for our purposes (breaking the 4th wall now)
 - he has used AI, but he has never actually attempted to evaluate where it provides true value and where it simply promises value but perhaps under-delivers
 
 Taken together, these traits make Moose the ideal candidate for starting his own DIY AI internship.
+
+[Now get started with setting up the DIY AI Internship](setting-it-up.md)
