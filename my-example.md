@@ -14,7 +14,7 @@ He chose the latter.
 
 Moose did not know how to code when he graduated. He was pretty tech-phobic outside of basic social media stuff. But he realized pretty early on after Chat-GPT arrived that he could learn enough coding to move away from tools such as WordPress, Squarespace, or Wix that provide templated and pretty standardized web platforms for creators. He could learn HTML, CSS, some Javascript, how to use Github, and perhaps some Python. He could actually become decent enough with code to manage his own career.
 
-So this is what he did. He started a blog ([available here](https://www.buildlittleworlds.com/), and he started building out content.
+So this is what he did. He started a blog ([available here](https://www.buildlittleworlds.com/)), and he started building out content.
 
 ## Moose's Need for the 90-Day AI Evaluation Project
 
