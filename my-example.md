@@ -6,7 +6,7 @@ This is a brief introduction to the example 90-day AI evaluation project I am co
 
 Moose Collins graduated in 2022 and is hard at work building out writing projects and online content for the career he wants for himself as music blog writer and perhaps a publicist or music journalist. Moose grew up in Nigeria and moved to the United States as a high school student. He studied creative writing and music as an undergraduate and is attempting to bridge his background living in Nigeria with his current interests in music, creativity, writing, and content creation.
 
-Moose is also one of those people whose life was transformed in November of 2022 (just a few months after graduating) by the dropping of Chat-GPT into his world as a content creator. Suddenly, these new AI tools threatened to do most of what he planned to do using his own wits and creativity. He had a decision to make, whether to stand against these tools as an intrusion into the uniqueness of human creation and an economic disaster for anyone with writing and creative ambitious; OR to attempt to learn the tools and see how they could enhance his work.
+Moose is also one of those people whose life was transformed in November of 2022 (just a few months after graduating) by the dropping of Chat-GPT into his world as a content creator. Suddenly, these new AI tools threatened to do most of what he planned to do using his own wits and creativity. He had a decision to make, whether to stand against these tools as an intrusion into the uniqueness of human creation and an economic disaster for anyone with writing and creative ambitions; OR to attempt to learn the tools and see how they could enhance his work.
 
 He chose the latter.
 
