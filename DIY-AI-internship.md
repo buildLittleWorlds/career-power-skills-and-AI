@@ -18,3 +18,5 @@ Here are the basics of how to turn your 90 days into a DIY internship:
 4. Ideally, build in public as you do this work (see the "self-promotion" note above)
 
    Keep a blog of your work. Develop a repository or archive of your work such as [this Github repository](day-by-day.md). You would be surprised at how "official" a DIY project such as this can end up being in providing tangible proof of an impressive kind to a potential employer or current boss. (In the case of a boss, I recommend running the project by your higher-up early on just in case there are privacy concerns.)
+
+[Take a look at Professor Plate's example](my-example.md)
