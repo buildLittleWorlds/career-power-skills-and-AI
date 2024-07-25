@@ -4,10 +4,10 @@ Note: each of the links below leads to a video in a playlist built by Dr. Daniel
 
 Contact Professor Plate at dplate@lindenwood.edu if you are interested.
 
-1. [Day 1](day1.md)
-2. [Day 2](day2.md)
-1. [Day 3](day3.md)
-2. [Day 4](day4.md)
+1. [Day 1](days/day-1.md)
+2. [Day 2](days/day-2.md)
+1. [Day 3](days/day-3.md)
+2. [Day 4](days/day-4.md)
 1. [Day 5](day5.md)
 2. [Day 6](day6.md)
 1. [Day 7](day7.md)
