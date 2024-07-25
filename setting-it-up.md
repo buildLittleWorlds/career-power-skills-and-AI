@@ -27,7 +27,7 @@ Write up evalution forms
 [Step #6](plan/step-6.md)
 If at all possible, create a schedule for performing your use cases on a daily or at least weekly basis.
 
-[Step #7](days/day-1.md)
+[Step #7](days/day1.md)
 Move on to Day #1 - do not stop until Day #90 (or #45 if you're doing the speed route)
 
 [Professor Plate's Video Log of His DIY AI Internship](day-by-day.md)
