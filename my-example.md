@@ -12,7 +12,7 @@ He chose the latter.
 
 ## Moose's Blog
 
-The blog itself is sort of a mess. Moose has always had lots of different ideas and interests, but it's hard to bring them all together in a unified way. So the blog is an attempt to focus his life. It does _sort of_ have a focus. It's just a strange and abstract focus. What Moose really needs is a pitch. He needs a purpose for the rambling, chaotic stream of ideas he gets; and he's hoping the blog will do this.
+The blog itself is sort of a mess. What Moose really wants it to be is a resource for writers, artists, musicians, and other creative people who need help thinking about the worlds they make up. It's also supposed to be a life experiment in building in public. Moose wants to learn what it might mean to automate parts of the world-building process. He's heard about research in to the concept of AI agents, and he wants to see if this can translate into creating made-up worlds. He's not sure what this could mean, but it seems like a big deal, and Moose wants to show skeptics of AI and coding and tech in general how the world of creativity can interact with the new world of AI agents.
 
 Moose did not know how to code when he graduated. He was pretty tech-phobic outside of basic social media stuff. But he realized pretty early on after Chat-GPT arrived that he could learn enough coding to move away from tools such as WordPress, Squarespace, or Wix that provide templated and pretty standardized web platforms for creators. He could learn HTML, CSS, some Javascript, how to use Github, and perhaps some Python. He could actually become decent enough with code to manage his own career.
 
