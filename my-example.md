@@ -2,15 +2,17 @@
 
 This is a brief introduction to the example 90-day AI evaluation project I am conducting, both to test the process myself and to model it. I have decided not to choose use cases from my actual job but instead to model the process using an early-career writer and content creator in an imaginary "world" I have invented for this Github repository and for my (real) World-Building and Creating Imaginary Worlds courses. This page explains the "world" of this young man and the career goals and projects he is engaged in. The "setting it up" page will provide more nuts-and-bolts descriptions of the 3-5 use cases my imaginary person has identified for the evaluation process.
 
-## Meet Moose Collins
+## Meet Moose
 
-Moose Collins graduated in 2022 and is hard at work building out writing projects and online content for the career he wants for himself as music blog writer and perhaps a publicist or music journalist. Moose grew up in Nigeria and moved to the United States as a high school student. He studied creative writing and music as an undergraduate and is attempting to bridge his background living in Nigeria with his current interests in music, creativity, writing, and content creation.
+Moose graduated in 2022 and is hard at work building out writing projects and online content for the career he wants for himself as a blog writer and perhaps a technical writer or  journalist. Moose grew up in Nigeria and moved to the United States as a high school student. He studied creative writing and philosophy as an undergraduate and is attempting to bridge his background living in Nigeria with his current interests in philosophy, creativity, political theory, writing, and content creation.
 
 Moose is also one of those people whose life was transformed in November of 2022 (just a few months after graduating) by the dropping of Chat-GPT into his world as a content creator. Suddenly, these new AI tools threatened to do most of what he planned to do using his own wits and creativity. He had a decision to make, whether to stand against these tools as an intrusion into the uniqueness of human creation and an economic disaster for anyone with writing and creative ambitions; OR to attempt to learn the tools and see how they could enhance his work.
 
 He chose the latter.
 
 ## Moose's Blog
+
+The blog itself is sort of a mess. Moose has always had lots of different ideas and interests, but it's hard to bring them all together in a unified way. So the blog is an attempt to focus his life. It does _sort of_ have a focus. It's just a strange and abstract focus. What Moose really needs is a pitch. He needs a purpose for the rambling, chaotic stream of ideas he gets; and he's hoping the blog will do this.
 
 Moose did not know how to code when he graduated. He was pretty tech-phobic outside of basic social media stuff. But he realized pretty early on after Chat-GPT arrived that he could learn enough coding to move away from tools such as WordPress, Squarespace, or Wix that provide templated and pretty standardized web platforms for creators. He could learn HTML, CSS, some Javascript, how to use Github, and perhaps some Python. He could actually become decent enough with code to manage his own career.
 
