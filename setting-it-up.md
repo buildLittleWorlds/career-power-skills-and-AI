@@ -1,6 +1,6 @@
 # Setting Up My 90-day AI Evaluation System
 
-Step #1
+[Step #1](plans/step-1.md)
 Identify my power skills
 
 Step #2
