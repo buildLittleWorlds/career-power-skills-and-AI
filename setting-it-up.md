@@ -1,12 +1,12 @@
 # Setting Up My 90-day AI Evaluation System
 
-[Step #1](plans/step-1.md)
+[Step #1](plan/step-1.md)
 Identify my power skills
 
-Step #2
+[Step #2](plan/step-2.md)
 Identify candidate use cases (about 20 possibilities)
 
-Step #3
+[Step #3](plan/step-3.md)
 Winnow down the list of use cases in terms of
 - frequency
 - importance to my work
