@@ -30,13 +30,9 @@ I need something about transforming one kind of content into another (items 10-1
 I need something related to coding and managing, building, maintaining the website.
 
 
-### Use Case #1 - Create blog post from video about a topic
+### Use Case #1 - Learn about a new philosophical topic
 
-I really like the idea of automating or streamlining the process of creating a video about a topic, building a blog post from that video, building a presentation as well, and generating a quiz at some point along the way. This might be too many moving parts for a single use case. It would _definitely_ be multiple tasks and a long process without AI, but I wonder if creating the workflow itself could be the point.
-
-One thing I'm a big confused about is what would count as the starting point. Would I start with the video and move to the blog post and presentation and quiz? Or would I want the presentation in order to shoot the video, which would mean starting with the blog post probably. But my hunch is that a way to speed up the process is to shoot the video, capture the transcript of the video, convert the transcript into prose for the blog post, and then get the presentation from that. So I don't know.
-
-For now, I'll keep it as simple as possible and then add in more steps as I go.
+This is something I do frequently but probably quite inefficiently. I read about philosophical things, think about them, and then get yanked in some new direction. I want to develop a task-oriented process for learning enough about a new philosophical topic that I have a blog post idea at the other end. This will mean using a general conversational tool like Claude to discuss the topic and pinpoint things I don't understand, and it will involve experimenting with the AI research tools available for philosophical sources. It will probably also involve using transcripts of Youtube videos because that's one way I get pulled into thinking about philosophical stuff.
 
 
 ### Use Case #2 - Break world-building idea down into component parts
@@ -46,15 +42,21 @@ This might seem strange as a use case, but I think it could end up being a very 
 What I would expect this to result in is a tight "build little world" post, a post that is sufficiently focused and narrow to work as a post for my blog. I don't want the blog to be full of general reflections on world-building. I want it to be full of "world-building atoms" that can be combined into interesting creative structures to imagine worlds.
 
 
-### Use Case #3 - Learn about a new philosophical topic
+### Use Case #3 - Create blog post from video about a topic
 
-This is something I do frequently but probably quite inefficiently. I read about philosophical things, think about them, and then get yanked in some new direction. I want to develop a task-oriented process for learning enough about a new philosophical topic that I have a blog post idea at the other end. This will mean using a general conversational tool like Claude to discuss the topic and pinpoint things I don't understand, and it will involve experimenting with the AI research tools available for philosophical sources. It will probably also involve using transcripts of Youtube videos because that's one way I get pulled into thinking about philosophical stuff.
+I really like the idea of automating or streamlining the process of creating a video about a topic, building a blog post from that video, building a presentation as well, and generating a quiz at some point along the way. This might be too many moving parts for a single use case. It would _definitely_ be multiple tasks and a long process without AI, but I wonder if creating the workflow itself could be the point.
+
+One thing I'm a big confused about is what would count as the starting point. Would I start with the video and move to the blog post and presentation and quiz? Or would I want the presentation in order to shoot the video, which would mean starting with the blog post probably. But my hunch is that a way to speed up the process is to shoot the video, capture the transcript of the video, convert the transcript into prose for the blog post, and then get the presentation from that. So I don't know.
+
+For now, I'll keep it as simple as possible and then add in more steps as I go.
+
 
 ### Use Case #4 - Change design element on blog
 
 I am pretty poor when it comes to visual design. I don't want to put the time in that is required to become a web designer, but I do want to make the blog presentable. My plan is to keep a minimalist look, but I also plan on using images in the blog posts, and I know that can get complicated, so I will use AI to help me with the coding and planning.
 
 This use case is pretty straightforward. Anytime I notice something I don't like about the visual state of the blog, I will use AI to brainstorm and implement a fix.
+
 
 ### (???) Use Case #5 - Add functionality to website
 
