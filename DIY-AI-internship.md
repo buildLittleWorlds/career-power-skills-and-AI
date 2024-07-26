@@ -4,7 +4,7 @@ This is the heart of the process for anyone early on in their career or building
 
 _Note for any students of Professor Daniel Plate: I will provide evidence of completion of the DIY AI Internship for any students enrolled in a course with me or for any advisees or students I am mentoring who complete the 90-day process under my supervision. **If you are interested in this, make sure you let me know in writing of your intentions.**_
 
-Here are the basics of how to turn your 90 days into a DIY internship:
+Here are the basics of how to turn your 90 days into a DIY internship (again, can be 45 days if you're doing things double-time):
 
 1. Identify 3-5 use cases that are organized around career-related tasks
 
