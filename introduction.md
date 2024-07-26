@@ -20,4 +20,4 @@ If you have about 90 days (45 days if you want to take the speed route) and you 
 
 This is the DIY AI Internship.
 
-(Now on to [Power Skills](power-skills.md)!)
+[On to Power Skills](power-skills.md)!)
