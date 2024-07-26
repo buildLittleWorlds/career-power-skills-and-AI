@@ -4,7 +4,7 @@ This is a brief introduction to the example 90-day AI evaluation project I am co
 
 ## Meet Moose
 
-Moose graduated in 2022 and is hard at work building out writing projects and online content for the career he wants for himself as a blog writer and perhaps a technical writer or  journalist. Moose grew up in Nigeria and moved to the United States as a high school student. He studied creative writing and philosophy as an undergraduate and is attempting to bridge his background living in Nigeria with his current interests in philosophy, creativity, political theory, writing, and content creation.
+Moose graduated in 2022 with a major in creative writing and philosophy. He's pretty obsessed with exploring as many world-building ideas and frameworks for creating things. He works part-time as a technical writer and has started a blog to explore his world-building interests. He hopes to combine his technical writing work with content creation and build resources for creative people of all sorts. So far, he's not sure how to monetize all this, so the blog is the starting point for career explorations.
 
 Moose is also one of those people whose life was transformed in November of 2022 (just a few months after graduating) by the dropping of Chat-GPT into his world as a content creator. Suddenly, these new AI tools threatened to do most of what he planned to do using his own wits and creativity. He had a decision to make, whether to stand against these tools as an intrusion into the uniqueness of human creation and an economic disaster for anyone with writing and creative ambitions; OR to attempt to learn the tools and see how they could enhance his work.
 
@@ -12,7 +12,7 @@ He chose the latter.
 
 ## Moose's Blog
 
-The blog itself is sort of a mess. What Moose really wants it to be is a resource for writers, artists, musicians, and other creative people who need help thinking about the worlds they make up. It's also supposed to be a life experiment in building in public. Moose wants to learn what it might mean to automate parts of the world-building process. He's heard about research into the concept of AI agents, and he wants to see if this can translate into creating made-up worlds. He's not sure what this could mean, but it seems like a big deal, and Moose wants to show skeptics of AI and coding and tech in general how the world of creativity can interact with the new world of AI agents.
+Moose has a passion for breaking things down into smaller parts. He's also curious about different forms language might take. For his blog, he's decided to zoom in tight on a single world-building idea and keep creating small versions of that idea. The idea comes from the simple what-if question, "What if telepathy existed?"
 
 Moose did not know how to code when he graduated. He was pretty tech-phobic outside of basic social media stuff. But he realized pretty early on after Chat-GPT arrived that he could learn enough coding to move away from tools such as WordPress, Squarespace, or Wix that provide templated and pretty standardized web platforms for creators. He could learn HTML, CSS, some Javascript, how to use Github, and perhaps some Python. He could actually become decent enough with code to manage his own career.
 
