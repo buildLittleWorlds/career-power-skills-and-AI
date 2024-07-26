@@ -2,7 +2,7 @@
 
 Note: this system is shamelessly stolen (and adapted a bit) from my favorite "AI news" Youtube channel, Marketing AI Institute. This channel has developed a pretty consistent set of suggestions for enterprise use and adoption of artificial intelligence, and I have benefited from their ideas. This episode in particular lays out the process I have adapted to my uses: [start at the 8:50 mark](https://www.youtube.com/watch?v=O82EFInRXQE&t=27s) if you are interested in watching (highly recommended).
 
-1. Pilot your use of AI tools over a 90-day period
+1. Pilot your use of AI tools over a 90-day period (if you are in a hurry, there's a 45-day version too)
 
    Find a 90-day stretch when you can implement this process in a disciplined, consistent way. Do not start it until you are committed to following through.
 
