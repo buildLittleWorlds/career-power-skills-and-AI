@@ -4,7 +4,7 @@
 Identify my power skills
 
 [Step #2](plan/step-2.md)
-Identify candidate use cases (about 20 possibilities)
+Identify candidate use cases (15+ possible use cases)
 
 [Step #3](plan/step-3.md)
 Winnow down the list of use cases in terms of
