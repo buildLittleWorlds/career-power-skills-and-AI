@@ -19,10 +19,10 @@ Customize your prompting for the use cases and AI tools
 - [include anything else from the [from poetry to programming podcast episode](https://www.youtube.com/watch?v=wjaSyLHOUb0)]
 
 [Step #5](plan/step-5.md)
-Write up evalution forms
+Describe in concrete detail the data-capture method
 - anything that can be done up front that reduces work during the process will make it more likely to succeed
-- make the forms simple
-- make the forms at least partially quantitative
+- make the process as simple as possible
+- make the data at least partially quantitative
 
 [Step #6](plan/step-6.md)
 If at all possible, create a schedule for performing your use cases on a daily or at least weekly basis.
