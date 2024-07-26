@@ -14,19 +14,15 @@ Note: this system is shamelessly stolen (and adapted a bit) from my favorite "AI
 
    It's wonderful to try AI for as many things as possible and use the tools all the time. This will result in improved ability with AI and better productivity. But _this process_ will fail if you do not make sure you keep the 3-5 use cases in mind on a daily basis. Be ok with not using AI for anything else. For these 90 days, just make sure you do this: every time you perform one of your 3-5 use cases, use AI to assist with the work.
 
-4. Develop some benchmarks against which to measure your use of the tools for your use cases.
-
-   This will take a bit of work, but the more time you put in at this stage, the more "real" your data will actually be when you test the tools for the same use cases. Practically, what this means is to either time yourself doing a use case to get a typical length of time for the work; or it can mean writing down estimates of how much time (and effort, if this can be measured somehow) it takes to perform a use case.
-
-5. Keep at least some quantitative record of how well AI is working in those use cases
+4. Keep a quantitative record of how well AI is working in those use cases
 
    This can be a simple 5 point scale for how effective the AI tool is for the given task. It can also be a quantitative evaluation + a simple write-up of your thoughts about that particular task. I recommend two simple 5 point grades each time:
    - How much time did AI save me? (1 - no time savings; 5 - 10x the speed or even better)
    - How high was the quality of the result? (1 - seriously sub-standard compared to work without AI; 5 - significantly better than work without AI)
   
-   The thing to do here is to match your assessment of the use of the tools against the time/effort required for the same use case without the tools. The effectiveness of this measure will depend on how well you performed step #4.
+   The thing to do here is to match your assessment of the use of the tools against the time/effort required for the same use case without the tools. The effectiveness of this measure will depend on how well you can estimate the difference and approximate the delta using a quick assessment.
 
-6. Be very cautious about changing the use cases part-way through
+5. Be very cautious about changing the use cases part-way through
 
    It may be necessary to swap out one or even two of your use cases for better candidate tasks after 10 or 15 days of the process. If this is obviously necessary, then make the change. The bottom line is to make sure this evaluation process measures the work you actually do most frequently. **But be very cautious about making a change**. Think very hard and honestly about step #2. The better you evaluate the importance and frequency of your use cases, the more likely you will be to stick with those use cases for the full 90 days.
 
