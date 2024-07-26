@@ -36,3 +36,5 @@ Contact Professor Plate at dplate@lindenwood.edu if you are interested.
 2. [Day 30](day30.md)
 1. [Day 31](day31.md)
 2. [Day 32](day32.md)
+
+[Home](/)
