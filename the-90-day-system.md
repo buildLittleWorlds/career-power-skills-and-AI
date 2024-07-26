@@ -1,4 +1,4 @@
-# The 90-Day AI Evaluation System
+# The 90-Day AI Evaluation System (or 45 days if you'd like)
 
 Note: this system is shamelessly stolen (and adapted a bit) from my favorite "AI news" Youtube channel, Marketing AI Institute. This channel has developed a pretty consistent set of suggestions for enterprise use and adoption of artificial intelligence, and I have benefited from their ideas. This episode in particular lays out the process I have adapted to my uses: [start at the 8:50 mark](https://www.youtube.com/watch?v=O82EFInRXQE&t=27s) if you are interested in watching (highly recommended).
 
