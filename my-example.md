@@ -6,4 +6,4 @@ In order to avoid data privacy issues, I will not include specific examples of t
 
 The blog is titled Build Little Worlds, and it is [here](https://www.buildlittleworlds.com/).
 
-[Now get started with setting up the DIY AI Internship](setting-it-up.md)
+[Home](/) | [Now get started with setting up the DIY AI Internship](setting-it-up.md)
