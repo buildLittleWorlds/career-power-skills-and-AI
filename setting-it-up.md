@@ -30,6 +30,10 @@ If at all possible, create a schedule for performing your use cases on a daily o
 [Step #7](days/day1.md)
 Move on to Day #1 - do not stop until Day #90 (or #45 if you're doing the speed route)
 
+Note: the videos about building the blog will be accessible to students at Lindenwood University upon request (send email to dplate@lindenwood.edu).
+
+---
+
 [Home](/) | [Professor Plate's Video Log of His DIY AI Internship](day-by-day.md)
 
-Note: the videos about building the blog will be accessible to students at Lindenwood University upon request (send email to dplate@lindenwood.edu).
+
