@@ -25,4 +25,6 @@
 - [Job skills in demand](https://insights.hanoverresearch.com/hubfs/Top-Career-Skills-for-New-Grads-2023.pdf)
 - [Another (more recent) Forbes article about these skills](https://www.forbes.com/sites/rachelwells/2024/07/25/10-interpersonal-skills-to-put-on-your-resume-in-2024/)
 
+---
+
 [Home](/) | [Get started with the 90-Day System](the-90-day-system.md)
