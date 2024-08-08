@@ -1,6 +1,6 @@
 # Candidate Use Cases
 
-This is a big, rambling list of a bunch of things that might work as use cases
+This is a quick list of a bunch of things that might work as use cases
 
 1. research blog post
 2. write blog post
