@@ -30,7 +30,7 @@ I need something about transforming one kind of content into another (items 10-1
 I need something related to coding and managing, building, maintaining the website.
 
 
-### Use Case #1 - Learn about a new philosophical topic
+### Use Case #1 - Learn more about a philosophical topic
 
 This is something I do frequently but probably quite inefficiently. I read about philosophical things, think about them, and then get yanked in some new direction. I want to develop a task-oriented process for learning enough about a new philosophical topic that I have a blog post idea at the other end. This will mean using a general conversational tool like Claude to discuss the topic and pinpoint things I don't understand, and it will involve experimenting with the AI research tools available for philosophical sources. It will probably also involve using transcripts of Youtube videos because that's one way I get pulled into thinking about philosophical stuff.
 
