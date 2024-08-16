@@ -4,7 +4,7 @@ Day 1 was an interesting day. I generated a blog post with Claude for my [Build 
 
 Ratings:
 
-- Blog post: time savings (4); quality (2)
+- Blog post: time savings (5); quality (2)
 - Brainstorming: time savings (4); quality (4)
 - Coding: time savings (5); quality (3)
 
