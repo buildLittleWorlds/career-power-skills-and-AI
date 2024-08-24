@@ -9,10 +9,10 @@ Contact Professor Plate at dplate@lindenwood.edu if you are interested.
 3. [Day 3](days/day-3.md)
 4. [Day 4](days/day-4.md)
 5. [Day 5](days/day-5.md)
-6. [Day 6](days/day-6.md)
 
 [Resetting my Internship - a regrouping day](days/reset.md)
 
+6. [Day 6](days/day-6.md)
 7. [Day 7](days/day-7.md)
 8. [Day 8](day8.md)
 9. [Day 9](day9.md)
@@ -30,15 +30,15 @@ Contact Professor Plate at dplate@lindenwood.edu if you are interested.
 21. [Day 21](day21.md)
 22. [Day 22](day22.md)
 23. [Day 23](day23.md)
-2. [Day 24](day24.md)
-1. [Day 25](day25.md)
-2. [Day 26](day26.md)
-1. [Day 27](day27.md)
-2. [Day 28](day28.md)
-1. [Day 29](day29.md)
-2. [Day 30](day30.md)
-1. [Day 31](day31.md)
-2. [Day 32](day32.md)
+24. [Day 24](day24.md)
+25. [Day 25](day25.md)
+26. [Day 26](day26.md)
+27. [Day 27](day27.md)
+28. [Day 28](day28.md)
+29. [Day 29](day29.md)
+30. [Day 30](day30.md)
+31. [Day 31](day31.md)
+32. [Day 32](day32.md)
 
 ---
 
