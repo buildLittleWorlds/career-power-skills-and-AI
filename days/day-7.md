@@ -1,3 +1,5 @@
 # Day 7 of My DIY AI Internship
 
-[On to Day #7!](day-7.md)
+stuff to go here
+
+[On to Day #8!](day-8.md)
