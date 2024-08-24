@@ -7,4 +7,7 @@ Time spent - 2 (low rating here just because it's become a rabbit-hole project, 
 
 Quality - 3
 
+
+[Check out my resetting/regrouping comment about the DIY internship](reset.md)
+
 [On to Day #6!](day-6.md)
