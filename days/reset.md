@@ -13,4 +13,4 @@ I will commit to two things each day. The first one is pretty straightforward an
 
 I expect to use AI tools for a lot of other stuff. I'm constantly trying out new things with AI. But I will work hard to focus on these two and only browse and wander when I've finished the core AI use cases for the day.
 
-[On to Day #7!](day-6.md)
+[On to Day #6!](day-6.md)
