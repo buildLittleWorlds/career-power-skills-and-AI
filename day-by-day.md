@@ -10,7 +10,9 @@ Contact Professor Plate at dplate@lindenwood.edu if you are interested.
 4. [Day 4](days/day-4.md)
 5. [Day 5](days/day-5.md)
 6. [Day 6](days/day-6.md)
+
 [Resetting my Internship - a regrouping day](days/reset.md)
+
 7. [Day 7](days/day-7.md)
 8. [Day 8](day8.md)
 9. [Day 9](day9.md)
